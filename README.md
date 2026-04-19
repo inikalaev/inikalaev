@@ -10,6 +10,7 @@ Ruby backend developer. Building reliable services and exploring new stacks.
 ## Currently
 - Building backend services
 - Expanding into Go and frontend
+- Exploring open source contributions
 
 ## Contact
 ✉️ ivan_n6_20@icloud.com  
