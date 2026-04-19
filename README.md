@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Ivan 👋
 
-<!--
-**inikalaev/inikalaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ruby backend developer. Building reliable services and exploring new stacks.
 
-Here are some ideas to get you started:
+## Stack
+- **Backend**: Ruby, Ruby on Rails, PostgreSQL
+- **Growing into**: Go, React
+- **Tools**: Git, Docker, REST APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently
+- Building backend services
+- Expanding into Go and frontend
+
+## Contact
+✉️ ivan_n6_20@icloud.com  
+📝 [habr.com/ru/users/ShonZander](https://habr.com/ru/users/ShonZander/)
