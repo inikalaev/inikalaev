@@ -7,6 +7,9 @@ Ruby backend developer. Building reliable services and exploring new stacks.
 - **Growing into**: Go, React
 - **Tools**: Git, Docker, REST APIs
 
+## Projects
+- **[database-seed-cli](https://github.com/inikalaev/database-seed-cli)** — Go CLI for generating relationally consistent synthetic data for PostgreSQL. Reads a live schema, infers fill mechanisms per column, and emits a ready-to-run SQL seed script respecting FK dependencies.
+
 ## Currently
 - Building backend services
 - Expanding into Go and frontend
